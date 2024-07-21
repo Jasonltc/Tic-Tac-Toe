@@ -23,7 +23,6 @@ body {
       rgba(241, 210, 70, 0.98),
       rgba(250, 176, 103, 0.87)
     ),
-    url("/bg-pattern-dark.png");
   background-repeat: repeat;
   min-height: 110rem;
 }
